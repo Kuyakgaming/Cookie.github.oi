@@ -1,2 +1,0 @@
-# cookie.github.oi
-Hi
